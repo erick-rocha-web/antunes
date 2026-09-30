@@ -1,0 +1,28 @@
+:root {
+  /* Laranja de partida, a ajustar pela logo oficial. */
+  --orange: #ff5a1f;
+  --ink: #151515;
+  --paper: #f3f1eb;
+  --paper-deep: #e7e3d9;
+  /* Texto secundário: mais escuro que #6D6B67 para garantir contraste em corpo pequeno. */
+  --muted: #5a5854;
+  --muted-on-ink: #b5b2ab;
+  --line: rgba(21, 21, 21, 0.18);
+  --line-on-ink: rgba(243, 241, 235, 0.22);
+
+  --font-display: 'Barlow Condensed', 'Arial Narrow', 'Helvetica Neue', sans-serif;
+  --font-body: 'Inter Variable', Inter, system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --gutter: 20px;
+  --header-h: 64px;
+  --container: 1320px;
+  --radius: 2px;
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+@media (min-width: 700px) {
+  :root {
+    --gutter: 32px;
+    --header-h: 68px;
+  }
+}

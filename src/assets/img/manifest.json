@@ -1,0 +1,83 @@
+{
+  "look-cinza-recorte": {
+    "width": 1094,
+    "height": 1438,
+    "variants": [
+      420,
+      720,
+      1094
+    ]
+  },
+  "look-cinza-original": {
+    "width": 611,
+    "height": 803,
+    "variants": [
+      360,
+      611
+    ]
+  },
+  "look-azul-original": {
+    "width": 624,
+    "height": 843,
+    "variants": [
+      360,
+      624
+    ]
+  },
+  "look-oliva-original": {
+    "width": 615,
+    "height": 817,
+    "variants": [
+      360,
+      615
+    ]
+  },
+  "editorial-camisetas": {
+    "width": 647,
+    "height": 834,
+    "variants": [
+      360,
+      647
+    ]
+  },
+  "editorial-jorts": {
+    "width": 653,
+    "height": 837,
+    "variants": [
+      360,
+      653
+    ]
+  },
+  "fachada-maps": {
+    "width": 801,
+    "height": 913,
+    "variants": [
+      420,
+      801
+    ]
+  },
+  "interior-corredor": {
+    "width": 697,
+    "height": 824,
+    "variants": [
+      360,
+      697
+    ]
+  },
+  "interior-tenis": {
+    "width": 692,
+    "height": 839,
+    "variants": [
+      360,
+      692
+    ]
+  },
+  "interior-acessorios": {
+    "width": 717,
+    "height": 838,
+    "variants": [
+      360,
+      717
+    ]
+  }
+}
